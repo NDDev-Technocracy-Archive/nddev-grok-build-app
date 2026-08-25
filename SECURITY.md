@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Report vulnerabilities privately through
-[GitHub Security Advisories](https://github.com/NDDev-it-com/nddev-grok-build-app/security/advisories/new).
+[GitHub Security Advisories](https://github.com/rldyourmnd/nddev-grok-build-app/security/advisories/new).
 Do not publish exploit details, credentials, tokens, private configuration, or
 backup contents in a pull request.
 

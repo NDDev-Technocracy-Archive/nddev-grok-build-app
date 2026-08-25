@@ -3,7 +3,7 @@
   "product_name": "nddev-grok-build-app",
   "display_name": "NDDev Grok Build Setup Manager",
   "description": "Portable, explicit-target setup manager for current Grok Build configuration, native builder marketplace capability projection, isolated launch, and target-bound lifecycle backups.",
-  "github_repository": "NDDev-it-com/nddev-grok-build-app",
+  "github_repository": "rldyourmnd/nddev-grok-build-app",
   "license": "AGPL-3.0-or-later",
   "manifest_ref": "build/manifest.json",
   "version_ref": "build/version.json",
